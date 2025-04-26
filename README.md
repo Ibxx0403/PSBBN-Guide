@@ -36,27 +36,30 @@ CD, DVD, POPS disse mapper indeholder alle de spil som er på PS2 drevet (OPL)
 Årsagen til at de skal kopieres til USB er så spillene ikke bliver slettet når man ønsker at overføre nye spil, dette vil tage noget tid og fylder omkring 110 GB. 
 
 
-Nu skal selve programmet til at overføre spillene installeres. Dette kan gøres ved at følge trinnene fra videon neden under 
+Nu skal selve programmet til at overføre spillene installeres. Dette kan gøres ved at følge trinnene fra videoen neden under 
 https://youtu.be/LLmJPF-XVxs?si=0PQvcrMvff62D8MI&t=916
 
-Se videon fra 15:16 til 19:45 
+Se videoen fra 15:16 til 21:13
 
-Derefter skip til 25:23 som viser processen for resten af installationen. 
+Efter at havet installeret programmet, kan man slette mappen games. 
 
+Herefter indsættes USB drevet i computeren, man vil nu kunne kopiere lokationen af games mappen på drevet.
 
+Nu åbnes PSBBN mappen i terminalen, dette kan gøres med et højre klik. 
 
+Derefter bruger man følgende kommando.
 
+ln -s /path/to/new/games/folder games
 
+hvor "/path/to/new/games/folder" slettes og erstattes med den kopieret lokation. Denne kommando linker ens usb mappe til PSBBN programmet. 
 
+Nu kan man tilføje SSD / HDD til computeren som de nye spil skal tilføjes til, siden der er tale om 2.5 drev behøver man ikke en adapter som skal have strøm forbindelse.
 
+Derefter skip til 27:15 som viser processen for resten af installationen eller klik på følgende link
+https://youtu.be/LLmJPF-XVxs?si=O4kHXu8R7b9ioHHt&t=1634
 
 
 Dog vil der være et ekstra step ved 27:54, vil der blive spurgt om OPL eller Neutrino, her vælges OPL ved at trykke 1. 
 
 ![Alt text](Images/install_choice.png?raw=true "Title")
 
-Eftersom at programmet selv kan opdatere, skal man huske at holde øje med at om terminalen siger at programmet er blevet opdateret, da man så skal ændre. stien til usb mappen igen. Som vist i 
-
-https://youtu.be/LLmJPF-XVxs?si=5NTUPiRy3zIsMFve&t=1558
-
-![Alt text](Images/update.png?raw=true "Title")
