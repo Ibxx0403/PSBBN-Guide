@@ -41,10 +41,9 @@ https://youtu.be/LLmJPF-XVxs?si=0PQvcrMvff62D8MI&t=916
 
 Se videoen fra 15:16 til 21:13
 
-Efter at havet installeret programmet, kan man slette mappen games. 
+Efter at havet installeret programmet, kan man slette mappen games i PSBBN mappen. 
 
-Herefter indsættes USB drevet i computeren, man vil nu kunne kopiere lokationen af games mappen på drevet.
-
+Herefter indsættes USB drevet i computeren, man vil nu kunne kopiere lokationen af games mappen.
 Nu åbnes PSBBN mappen i terminalen, dette kan gøres med et højre klik. 
 
 Derefter bruger man følgende kommando.
