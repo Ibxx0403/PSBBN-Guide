@@ -53,10 +53,10 @@ Derefter skip til 25:23 som viser processen for resten af installationen.
 
 Dog vil der være et ekstra step ved 27:54, vil der blive spurgt om OPL eller Neutrino, her vælges OPL ved at trykke 1. 
 
-![[Screenshot from 2025-03-02 17-38-00.png]]
+![Alt text](Images/Screenshot from 2025-03-02 17-38-00.png?raw=true "Title")
 
 Eftersom at programmet selv kan opdatere, skal man huske at holde øje med at om terminalen siger at programmet er blevet opdateret, da man så skal ændre. stien til usb mappen igen. Som vist i 
 
 https://youtu.be/LLmJPF-XVxs?si=5NTUPiRy3zIsMFve&t=1558
 
-![[Screenshot from 2025-03-02 17-36-26.png]]
+![Alt text](Images/Screenshot from 2025-03-02 17-36-26.png?raw=true "Title")
