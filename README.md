@@ -2,15 +2,18 @@
 Jeg anbefaler at man går hele guiden igennem samt videor, inden man går i gang med nogle af trinene. 
 
 Først skal der installeres redskabet VirtualBox, få at kunne køre linux i windows. 
+
 https://www.virtualbox.org/wiki/Downloads
 
 Jeg har linket en guide som viser hvordan man kan få VirtualBox op at køre. 
+
 https://www.youtube.com/watch?v=nvdnQX9UkMY
 
 
 Det styresystem man skal køre (ISO fil) er Linux mint 
 
 Download begynder med det samme, når man åbner linket. 
+
 http://ftp.klid.dk/ftp/linuxmint/stable/22.1/linuxmint-22.1-cinnamon-64bit.iso
 
 
@@ -20,6 +23,7 @@ Efter at man har sat linux mint op, skal man første gang, tilføje sit PS2 drev
 Alternativt kan man gøre brug af tomme filer som er navngivent korrekt, dette vil gøre at man kan have flere spil på sit drev, men vis ps2 drevet bliver formateret, vil denne metode ikke længere virke. 
 
 Jeg har vedhæftet filerne, som kan bruges i følgende link. (Direkt download, kan også findes på denne github)
+
 https://github.com/Ibxx0403/PSBBN-Guide/raw/refs/heads/main/blank_games.zip
 
 
@@ -37,6 +41,7 @@ CD, DVD, POPS disse mapper indeholder alle de spil som er på PS2 drevet (OPL)
 
 
 Nu skal selve programmet til at overføre spillene installeres. Dette kan gøres ved at følge trinnene fra videoen neden under 
+
 https://youtu.be/LLmJPF-XVxs?si=0PQvcrMvff62D8MI&t=916
 
 Se videoen fra 15:16 til 21:13
@@ -55,6 +60,7 @@ hvor "/path/to/new/games/folder" slettes og erstattes med den kopieret lokation.
 Nu kan man tilføje SSD / HDD til computeren som de nye spil skal tilføjes til, siden der er tale om 2.5 drev behøver man ikke en adapter som skal have strøm forbindelse.
 
 Derefter skip til 27:15 som viser processen for resten af installationen eller klik på følgende link
+
 https://youtu.be/LLmJPF-XVxs?si=O4kHXu8R7b9ioHHt&t=1634
 
 
