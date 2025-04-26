@@ -28,7 +28,7 @@ Først skal man lave en mappe i USB drevet der hedder games
 
 
 Nu skal man overføre følgende mapper fra PS2 drev (OPL) til games mappen. 
-![[Images/Untitled.png]]
+![Alt text](relative%20Images/Untitled.png?raw=true "Title")
 CD, DVD, POPS disse mapper indeholder alle de spil som er på PS2 drevet (OPL)
 
 
