@@ -1,7 +1,8 @@
-
 Jeg anbefaler at man går hele guiden igennem samt videor, inden man går i gang med nogle af trinene. 
 
-Først skal der installeres redskabet VirtualBox, få at kunne køre linux i windows. 
+Da man skal bruge Linux mint eller andre debian distributioner kan man enten installere Linux på sin computer og dual boote, eller installere en virtual machine. 
+
+Hvis man ønsker at bruge en virtual machine kan man bruge redskabet VirtualBox, få at kunne køre linux i windows. 
 
 https://www.virtualbox.org/wiki/Downloads
 
@@ -20,9 +21,9 @@ http://ftp.klid.dk/ftp/linuxmint/stable/22.1/linuxmint-22.1-cinnamon-64bit.iso
 
 Efter at man har sat linux mint op, skal man første gang, tilføje sit PS2 drev med spil, og sit USB  / eksterne drev hvor man ønsker at opbevare de spil som skal overføres til PS2 konsollen. 
 
-Alternativt kan man gøre brug af tomme filer som er navngivent korrekt, dette vil gøre at man kan have flere spil på sit drev, men vis ps2 drevet bliver formateret, vil denne metode ikke længere virke. 
+Alternativt kan man gøre brug af tomme filer som er navngivent korrekt, dette vil gøre at man kan have flere spil på sit drev, men vis ps2 drevet bliver formateret, vil denne metode ikke længere virke og man vil blive nødt til at have de fulde spil filer. 
 
-Jeg har vedhæftet filerne, som kan bruges i følgende link. (Direkt download, kan også findes på denne github)
+Jeg har vedhæftet de tomme filer, som kan bruges i stedet for de større filer i følgende link. (Direkt download, kan også findes på denne github)
 
 https://github.com/Ibxx0403/PSBBN-Guide/raw/refs/heads/main/blank_games.zip
 
@@ -37,7 +38,7 @@ CD, DVD, POPS disse mapper indeholder alle de spil som er på PS2 drevet (OPL)
 
 
 
-Årsagen til at de skal kopieres til USB er så spillene ikke bliver slettet når man ønsker at overføre nye spil, dette vil tage noget tid og fylder omkring 110 GB. 
+Årsagen til at de skal kopieres til USB er så spillene ikke bliver slettet når man ønsker at overføre nye spil, dette vil tage noget tid, hvis man ikke bruger de tomme filer. 
 
 
 Nu skal selve programmet til at overføre spillene installeres. Dette kan gøres ved at følge trinnene fra videoen neden under 
