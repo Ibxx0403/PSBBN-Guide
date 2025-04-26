@@ -19,8 +19,8 @@ Efter at man har sat linux mint op, skal man første gang, tilføje sit PS2 drev
 
 Alternativt kan man gøre brug af tomme filer som er navngivent korrekt, dette vil gøre at man kan have flere spil på sit drev, men vis ps2 drevet bliver formateret, vil denne metode ikke længere virke. 
 
-Jeg har vedhæftet filerne, som kan bruges i følgende link. 
-
+Jeg har vedhæftet filerne, som kan bruges i følgende link. (Direkt download, kan også findes på denne github)
+https://github.com/Ibxx0403/PSBBN-Guide/raw/refs/heads/main/blank_games.zip
 
 
 
