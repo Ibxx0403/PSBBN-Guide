@@ -56,7 +56,7 @@ Derefter bruger man følgende kommando.
 
 ln -s /path/to/new/games/folder games
 
-hvor "/path/to/new/games/folder" slettes og erstattes med den kopieret lokation. Denne kommando linker ens usb mappe til PSBBN programmet. Et eksempel vises underneden
+hvor "/path/to/new/games/folder" slettes og erstattes med den kopieret lokation. Denne kommando linker ens usb mappe til PSBBN programmet. Et eksempel vises underneden hvor "/media/ibxx0402/PS2 HDD" er lokationen.
 
 ![Alt text](Images/folder_link.png?raw=true "Title")
 
