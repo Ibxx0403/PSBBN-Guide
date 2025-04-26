@@ -14,6 +14,7 @@ Download begynder med det samme, når man åbner linket.
 http://ftp.klid.dk/ftp/linuxmint/stable/22.1/linuxmint-22.1-cinnamon-64bit.iso
 
 
+
 Efter at man har sat linux mint op, skal man første gang, tilføje sit PS2 drev med spil, og sit USB  / eksterne drev hvor man ønsker at opbevare de spil som skal overføres til PS2 konsollen. 
 
 Alternativt kan man gøre brug af tomme filer som er navngivent korrekt, dette vil gøre at man kan have flere spil på sit drev, men vis ps2 drevet bliver formateret, vil denne metode ikke længere virke. 
@@ -27,7 +28,7 @@ Først skal man lave en mappe i USB drevet der hedder games
 
 
 Nu skal man overføre følgende mapper fra PS2 drev (OPL) til games mappen. 
-![[Untitled.png]]
+![[Images/Untitled.png]]
 CD, DVD, POPS disse mapper indeholder alle de spil som er på PS2 drevet (OPL)
 
 
