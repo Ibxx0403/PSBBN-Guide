@@ -1,4 +1,11 @@
+Denne guide er til at tilføje flere spil til PS2 drevet. 
 Jeg anbefaler at man går hele guiden igennem samt videor, inden man går i gang med nogle af trinene. 
+
+
+
+
+
+
 
 Da man skal bruge Linux mint eller andre debian distributioner kan man enten installere Linux på sin computer og dual boote, eller installere en virtual machine. 
 
