@@ -56,7 +56,10 @@ Derefter bruger man følgende kommando.
 
 ln -s /path/to/new/games/folder games
 
-hvor "/path/to/new/games/folder" slettes og erstattes med den kopieret lokation. Denne kommando linker ens usb mappe til PSBBN programmet. 
+hvor "/path/to/new/games/folder" slettes og erstattes med den kopieret lokation. Denne kommando linker ens usb mappe til PSBBN programmet. Et eksempel vises underneden
+
+![Alt text](Images/folder_link.png?raw=true "Title")
+
 
 Nu kan man tilføje SSD / HDD til computeren som de nye spil skal tilføjes til, siden der er tale om 2.5 drev behøver man ikke en adapter som skal have strøm forbindelse.
 
